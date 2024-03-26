@@ -1,1 +1,1 @@
-print("ABCDEFG")
+print("AG")
